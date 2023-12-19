@@ -1,0 +1,14 @@
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\logic\Owner.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\persistence\exceptions\IllegalOrphanException.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\gui\EditDataFrame.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\gui\MainFrame.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\persistence\exceptions\PreexistingEntityException.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\persistence\PetJpaController.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\persistence\OwnerJpaController.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\Main.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\logic\LogicController.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\gui\LoadDataFrame.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\gui\NewDataFrame.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\logic\Pet.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\persistence\exceptions\NonexistentEntityException.java
+C:\Users\laura\Desktop\DogGroomer\src\main\java\com\mycompany\doggroomer\persistence\PersistenceController.java
