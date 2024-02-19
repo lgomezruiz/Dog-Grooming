@@ -6,7 +6,7 @@ Desktop application using Java, JPA and MySQL Workbench. The user interface is m
 
 ## What have I learned in this project? 🙇🏻 
 
-- *Reinforcement* of the use of Java and Object Oriented Programming.
+- Reinforcement of the use of Java and Object Oriented Programming.
 - Make a connection between the Java application and a MySQL database.
 - Using JPA for persistence.
 - Strengthened the use of the Swing graphics library to create the application interface.
